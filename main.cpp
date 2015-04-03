@@ -22,7 +22,7 @@ int main()
 
     Mat imagen;     // Matriz que guardara la imagen original
 
-    imagen = imread("/home/scaarg/Desktop/pupila.png");
+    imagen = imread("DIRRECCION-DE-LA-IMAGEN-ORIGINAL");    // CAMBIAR DIRECCION!!
 
     // imshow("Original",imagen);
 
